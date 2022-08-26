@@ -13,4 +13,5 @@ sala1bamor@gmail.com -- Feliceslos4
 El primer stream salió bien, hasta que se cortó solo. Tengo que ver si fue una cuestión de conexión (Fue heho por celular) o por otra cosa. 
 
 Estoy intentando hacer la web responsive.
-El footer quedó muy grande, tengo que achicarlo. 
+El footer fue achicado. 
+Agregado un Home.
