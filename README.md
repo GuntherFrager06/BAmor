@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Se crea la primer cuenta de Twitch.                                                                     
 Sala 1: Registro_Civil_Sala_1
 REC_S1_gcba 
-sala1bamor@gmail.com -- Feliceslos4
+sala1baamor@gmail.com -- Feliceslos4
 
 El primer stream salió bien, hasta que se cortó solo. Tengo que ver si fue una cuestión de conexión (Fue heho por celular) o por otra cosa. 
 
