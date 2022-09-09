@@ -66,12 +66,20 @@ nav a:hover {
   font-weight: 400;
   font-size: 54px;
   text-align: center;
+  position:relative;
+  top: -150px;
+  
 }
 
 .subtitulo {
   font-family: "Chalet NewYorkNineteenEighty";
   font-size: 20px;
   text-align: center;
+  margin-top: 100px;
+  position: relative;
+  top: -200px;
+  font-weight: 900;
+  
 }
 
 .cabecera {
