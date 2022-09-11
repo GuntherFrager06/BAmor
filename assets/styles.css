@@ -1,0 +1,135 @@
+@media  (min-aspect-ratio: 16/9) {
+  
+}
+
+
+@font-face {
+  font-family: "Chalet NewYorkNineteenEighty";
+  src: url("./fonts/Chalet\ NewYorkNineteenEighty.otf") format("otf"),
+    url("fonts/Chalet\ NewYorkNineteenEighty.otf") format("otf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+* {
+  font-family: "Chalet NewYorkNineteenEighty";
+  font-weight: 100;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+nav {
+  width: 100%;
+  background: #ffffff;
+  overflow: auto;
+}
+
+ul {
+  padding: 0;
+  margin: 0 0 0 150px;
+  list-style: none;
+  height: 100%;
+  
+}
+
+li {
+  float: right;
+}
+
+.logo img {
+  padding-left: 0px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+nav a {
+  width: 50px;
+  display: block;
+  padding: 21px 50px;
+  text-decoration: none;
+  color: black;
+  text-align: right;
+}
+
+nav a:hover {
+  animation: ease-in 10ms;
+  background-color: rgb(251, 251, 110);
+}
+
+.titulo {
+  font-family: "Chalet NewYorkNineteenEighty";
+  font-weight: 400;
+  font-size: 54px;
+  text-align: center;
+  position:relative;
+  top: -145px;
+  text-shadow: 5px 5px 10px black;
+  
+}
+
+.subtitulo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  position: relative;
+  top: -200px;
+  font-weight: 900;
+  text-shadow: 5px 5px 10px black;
+  color: aliceblue;
+  
+}
+
+.cabecera {
+  background-image: url(./img/image_background.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: rgb(22, 22, 22);
+}
+
+/* div donde se muestra el reproductor de twitch */
+
+.principal {
+  background-color: rgb(249, 249, 249);
+  margin: 0 auto;
+  padding: 10px 0 200px;
+}
+
+/*  Reproductor de Twtich  */
+
+.twitch {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+.footer {
+  font-size: 10px;
+  text-align: center;
+  background-color: black;
+  padding-bottom: 20px;
+  color: #ffffff;
+  
+  
+}
+
+.copyright {
+  padding-top: 30px;
+}
+
+.footer1 {
+  font-size: 10px;
+  text-align: center;
+  background-color: black;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+
+
