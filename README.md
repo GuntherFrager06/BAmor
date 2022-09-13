@@ -37,3 +37,21 @@ REC_S3_gcba
 Sala 4:
 sala4baamor
 REC_S4_gcba
+
+_______________________________________________________________________________________________________________________________________________________________________
+                                                            11/9/22
+
+Se creó nuevo PNG. 
+Agregado sombreado al subtitulo.   
+Agregado nuevo href hacia matrimonios en el logo. 
+Corregida la superposición de los titulos.      
+Corregido el footer.                                                     
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+                                                            12/9/22
+
+Hacer la web FULL responsive. 
+Agregar un dropdown
+La imagen de fondo deberia estar en el medio, igual que el video. 
+El corazón del logo tiene que estar a la par del resto del logo. 
