@@ -1,4 +1,4 @@
-@media all  {
+@media only screen and (mid-width: 768px)  {
   
 }
 
@@ -105,9 +105,18 @@ nav a:hover {
 /*  Reproductor de Twtich  */
 
 .twitch {
-  margin: auto;
-  width: 70%;
-  padding: 10px;
+  overflow:hidden;
+    padding-bottom:400px; /* Adecua este valor para controlar la altura del video */
+    position:relative;
+    height:0;
+}
+
+.iframe {
+  left:0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
 .footer {
@@ -116,20 +125,25 @@ nav a:hover {
   background-color: black;
   padding-bottom: 20px;
   color: #ffffff;
-  
-  
-}
+   }
 
 .copyright {
   padding-top: 30px;
+  text-decoration: none !important;
+  color: red
+  
 }
 
 .footer1 {
   font-size: 10px;
   text-align: center;
   background-color: black;
-  padding-bottom: 20px;
-  color: #ffffff;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+
+@media only screen and (mid-width: 768px)  {
+  
 }
 
 
