@@ -55,3 +55,14 @@ Hacer la web FULL responsive.
 Agregar un dropdown
 La imagen de fondo deberia estar en el medio, igual que el video. 
 El corazón del logo tiene que estar a la par del resto del logo. 
+
+_______________________________________________________________________________________________________________________________________________________________________
+                                                            25/9/22
+
+Se hizo la web full responsive. 
+Se agregó un dropdown para la versión mobil. 
+_______________________________________________________________________________________________________________________________________________________________________
+                                                            28/9/22
+
+El reproductor fue centrado en la parte inferior de la pagina. 
+Se agregó un nuevo logo en el footer.
