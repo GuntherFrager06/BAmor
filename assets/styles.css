@@ -108,15 +108,17 @@ position: relative;
 top: -200px;
 font-weight: 900;
 text-shadow: 5px 5px 10px black;
-color: aliceblue;
+color: aliceblue; 
 
-}
+} 
 
 .cabecera {
 background-image: url(./img/image_background.jpeg);
 background-size: cover;
+background-position: center center;
 background-repeat: no-repeat;
-padding-top: 100px;
+background-attachment: fixed;
+padding-top: 100px; 
 padding-bottom: 150px;
 color: rgb(22, 22, 22);
 }
@@ -165,10 +167,6 @@ padding-bottom: 10px;
 text-decoration: none;
 }
 
-@media only screen and (mid-width: 768px)  {
-
-}
-
 .flex {
 display: flex;
 }
@@ -177,13 +175,18 @@ display: flex;
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
-grid-area: logo2;
+grid-area: center;
 padding-left: 1rem;
 
 }
 
 .img {
-margin-top: -52px;
+ /*margin-top: -52px; */
 width: 250px;
 height: 50px;
+align-items: center;
+}
+
+@media only screen and (mid-width: 768px)  {
+
 }
